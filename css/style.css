@@ -1,0 +1,24 @@
+body {
+  background-color: gray;
+  margin-top: 15%;
+  color: #fff;
+  font-family: 'Amatic SC';
+}
+
+a {
+  font-family: 'Amatic SC';
+}
+
+h1,h2 {
+  color: gray;
+}
+
+.btn, .btn-default{
+  background: gray;
+  color: #fff;
+}
+.quoteBox {
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px 20px 10px 20px;
+}
